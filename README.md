@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-I’m a **Software Engineer in Test (SET)** with strong experience in building automated test frameworks, writing clean code, and developing internal tools in **Python**, **PowerShell**, **JavaScript**, and recently in desktop apps techonogies.  
+I’m a **Software Engineer in Test (SET)** with strong experience in building automated test frameworks, writing clean code, and developing internal tools in **Python**, **PowerShell**, **JavaScript**. Recently I've been styding web and desktoptechonogies. 
 
 My focus areas include:
 

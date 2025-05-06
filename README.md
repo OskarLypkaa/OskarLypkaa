@@ -1,26 +1,25 @@
-Hi there! 👋
+👋 About Me
+I’m a Software Engineer in Test (SET) with strong experience in building automated test frameworks, writing clean code, and developing internal tools in Python, PowerShell, JavaScript, and other technologies. My focus areas include:
 
-I'm Oskar, a Junior QA Automation Engineer with a year of commercial experience, a strong passion for ensuring software quality, and a keen attention to detail. I'm dedicated to leveraging rigorous testing methodologies and automation to contribute to high-quality software development.
+E2E and UI automation (TestComplete, Selenium-based tools, UIAutomator)
 
-🔧 **Skills & Technologies:**
-- **Programming:** Proficient in Python and Java
-- **Tools:** VSCode, Git, GitHub, JIRA, Confluence
-- **Testing:** End-to-End (E2E) Testing, UI Testing (UIAutomator, Vysor, Weditor)
+Framework design with clean architecture and maintainable code
 
-🚀 **Experience & Responsibilities:**
-- **Professional Experience:** 1 year in QA engineering
-- **Testing Focus:** E2E testing implementation with Python
-- **Automation Tools:** VSCode, Git, GitHub
-- **UI Testing Tools:** UIAutomator, Vysor, Weditor
-- **Defect Reporting:** Utilized JIRA & Confluence
-- **Test Environment:** Worked on and improved test environments to meet project requirements
-- **Automation:** Automated tests based on test case specifications
+CI/CD and test environment management (Azure, GitHub Actions)
 
-🌱 **Learning & Growth:**
-I'm constantly seeking opportunities to learn and enhance my skills. My goal is to contribute to the dynamic field of software quality assurance and automation. Feel free to explore my repositories and projects!
+Test case design and automation based on technical documentation
 
-📫 **Let's Connect:**
-- [LinkedIn](https://www.linkedin.com/in/oskar-lypka)
-- Email: oskar.lypka@gmail.com
+Tooling to support QA workflows and engineering teams
 
-Thank you for visiting! 🌟
+🔒 Repositories
+All my repositories are private for two main reasons:
+
+Legacy or outdated code — Older projects no longer reflect my current coding standards, clean code practices, or testing methodologies.
+
+Commercial and revenue-generating projects — Some repositories contain proprietary or monetized codebases that I actively use or maintain.
+
+If you’d like to see examples of my current work, I’m open to sharing selected code snippets or demo projects upon request.
+
+🛠 Technologies
+Languages: Python, PowerShell, JavaScript, Swift
+Testing: TestComplete, UIAutomator, Selenium tools
